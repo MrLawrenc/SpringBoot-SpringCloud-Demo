@@ -35,8 +35,8 @@ eureka:
 info:
   app.name: cloud-demo
   company.name: www.dcrays.cn
-  build.artifactId: $project.artifactId$
-  build.version: $project.version$
+  build.artifactId: cn.dcrays
+  build.version: v 1.0
 
 
 

@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-dept-8002/cloud-provider-dept-8002.iml" filepath="$PROJECT_DIR$/cloud-provider-dept-8002/cloud-provider-dept-8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-dept-8003/cloud-provider-dept-8003.iml" filepath="$PROJECT_DIR$/cloud-provider-dept-8003/cloud-provider-dept-8003.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-dept-hystrix-8001/cloud-provider-dept-hystrix-8001.iml" filepath="$PROJECT_DIR$/cloud-provider-dept-hystrix-8001/cloud-provider-dept-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zuul-gateway-9527/cloud-zuul-gateway-9527.iml" filepath="$PROJECT_DIR$/cloud-zuul-gateway-9527/cloud-zuul-gateway-9527.iml" />
     </modules>
   </component>
 </project>
