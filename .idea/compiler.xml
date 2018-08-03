@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-api" />
         <module name="cloud-consumer-dept-80" />
+        <module name="cloud-consumer-hystrix-dashboard" />
         <module name="cloud-eureka-7001" />
         <module name="cloud-eureka-7002" />
         <module name="cloud-eureka-7003" />
@@ -21,6 +22,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="cloud-api" target="1.8" />
       <module name="cloud-consumer-dept-80" target="1.8" />
+      <module name="cloud-consumer-hystrix-dashboard" target="1.8" />
       <module name="cloud-eureka-7001" target="1.8" />
       <module name="cloud-eureka-7002" target="1.8" />
       <module name="cloud-eureka-7003" target="1.8" />

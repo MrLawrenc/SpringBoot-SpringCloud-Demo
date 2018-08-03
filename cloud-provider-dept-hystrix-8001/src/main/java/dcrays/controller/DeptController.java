@@ -24,7 +24,6 @@ public class DeptController {
 	private DiscoveryClient client;
 
 	@RequestMapping(value = "/dept/add", method = RequestMethod.POST)
-
 	public boolean add(@RequestBody Dept dept) {
 		boolean result = service.add(dept);
 		return result;
