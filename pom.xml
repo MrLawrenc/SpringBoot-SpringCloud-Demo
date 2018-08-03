@@ -17,6 +17,8 @@
         <module>cloud-eureka-7003</module>
         <module>cloud-provider-dept-8002</module>
         <module>cloud-provider-dept-8003</module>
+        <module>cloud-provider-dept-hystrix-8001</module>
+        <module>cloud-consumer-hystrix-dashboard</module>
     </modules>
 
     <properties>
